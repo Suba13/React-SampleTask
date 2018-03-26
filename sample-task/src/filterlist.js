@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import './filter.css';
 
@@ -5,14 +6,14 @@ class FilterList extends Component {
   constructor(props){
     super(props)
     this.state={items:[
-      "Apples",
+      "Apple",
       "Broccoli",
       "Chicken",
       "Bacon",
-      "Eggs",
+      "Egg",
       "Salmon",
       "Granola",
-      "Bananas",
+      "Banana",
       "Beer",
       "Wine",
       "Yogurt"
